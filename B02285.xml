@@ -1,0 +1,472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The zea-atlas, or, The water-world shewing all the sea-coasts of y known parts of y earth, with a generall discription of the same. Verie usefull for all masters &amp; mates of shipps, &amp; likwise for merchants newly sett forth.</title>
+            <author>Colom, Jacob Aertsz, 1599-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02285</idno>
+            <idno type="STC">Wing C5403I</idno>
+            <idno type="STC">ESTC R174102</idno>
+            <idno type="EEBO-CITATION">52211765</idno>
+            <idno type="OCLC">ocm 52211765</idno>
+            <idno type="VID">175592</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175592)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2741:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The zea-atlas, or, The water-world shewing all the sea-coasts of y known parts of y earth, with a generall discription of the same. Verie usefull for all masters &amp; mates of shipps, &amp; likwise for merchants newly sett forth.</title>
+                  <author>Colom, Jacob Aertsz, 1599-1673.</author>
+               </titleStmt>
+               <extent>[8] p. : 24 double maps.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Casparus Loots-man, Bookseller upon the Water, in the Loots-man,</publisher>
+                  <pubPlace>At Amsterdam :</pubPlace>
+                  <date>Anno 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Colom by Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>Text accompanying maps in Dutch.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nautical charts --  Early works to 1800.</term>
+               <term>Pilot guides --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175592:1"/>
+            <pb facs="tcp:175592:1" rendition="simple:additions"/>
+            <p>THE ZEA-ATLAS <hi>Or the</hi> WATER-WORLD, Shewing al the SEA-COATS OF Y KNOWN PARTS of y EARTH, WITH A Generall Diſcription of the ſame.</p>
+            <p>
+               <hi>Verie Uſefull for all</hi> MASTERS &amp; MATES of Shipps, &amp; likwiſe for MERCHANTS Newly ſett forth.</p>
+            <figure/>
+            <p>At AMSTERDAM, Printed by <hi>Caſparus Loots-Man,</hi> Bookſeller upon the Water, in the Loots-man. Anno 1688.</p>
+            <pb facs="tcp:175592:2" rendition="simple:additions"/>
+            <pb facs="tcp:175592:2" rendition="simple:additions"/>
+            <pb facs="tcp:175592:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:175592:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175592:4"/>
+            <pb facs="tcp:175592:4"/>
+            <head>A SHORT DECLARATION Of the Diviſion, Situation &amp; Qualities of the EARTH.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Beginning did the Everlaſting and Almighty God, throug his wiſ<g ref="char:EOLhyphen"/>dom, create the world out of nothing; and joyne the Earth with the Sea to<g ref="char:EOLhyphen"/>gether (as being the heavieſt) in one round forme, in the manner of a ball, and place them in the center or midſt point, as in the nethermoſt place; the heaven, as a tent, is with an unmeaſu<g ref="char:EOLhyphen"/>rable breadth extendeed, over and about it, and adorned with many and glorious lights, as the Sunne, Moone, Planets and other Starres innumerable. And that the earth might be a fit habitation or dwelling for man and other terreſtrial creatures, and through its plentiful fruit nouriſh and ſuſtaine them, hath God exalted it above the waters, and ordained unto the Zea its place in the depths on ſuch a manner, that ſhee on every ſide comprehending the earth with its krookednes, doth di<g ref="char:EOLhyphen"/>ſtinguiſch and divide the ſame in three ſeveral parts or great continents, that is firm lands, over which the deſcribers of the earth (as the Aſtronomers over heaven) place fif circkels, as the Aequinoctial, ſo called, becauſe night and day are over the whole earth off one length whenſoever the Son doth come in this circkel, which happeneth about the 21<hi rend="sup">th.</hi> of March, and the 23<hi rend="sup">th.</hi> of September. This circkel is alſo called Aequator, to which when the Sunne commeth, it maketh the dayes &amp; the nights equal; the Marriners of the lowe countreys doe call it the middel-line, becauſe it doth divide the face of the earth in two equal parts, whereof one tendeth towards the North, and the other towards the South, &amp; ſo it is the very middle be<g ref="char:EOLhyphen"/>twixt the Northern and Southern lines or Poles. The other is called Tropicus Cancri, or the Sunne turning of the Crab, be<g ref="char:EOLhyphen"/>cauſe the Sunne when it commeth to this cirkel about the 21<hi rend="sup">th.</hi> of June, beginneth to turne towards the Aequator, and then it is the longeſt day to thoſe who live in the north, and the ſhorteſt to thoſe who live in the South from the Aequator: this circkels ſituated 23 degrees 31½ minutes Northward from the middel<g ref="char:EOLhyphen"/>line. The third is tearmed Tropicus Capricorni, or a Sunne-turning of the ſigne in the heaven, called Capricorne, becauſe the Sunne, when it comme to this circkel, which is about the 22<hi rend="sup">th.</hi> of December, beginneth to turne and to klimbe towards the Aequator; and then it is contrary as before, the ſhorteſt day to thoſe who live in the North, and the longeſt to thoſe who live in the South of the mid-line: and this ſigne is ſituated 23 degrees, 31½ minuits in the South of the Aequinoctial. The 4<hi rend="sup">th.</hi> is called Circulus Arcticus, the Northern cirkel, &amp; the 5<hi rend="sup">th.</hi> Cir<g ref="char:EOLhyphen"/>culis Antarcticus, the Soutrhern cirkel: theſe are ſituated 23 de<g ref="char:EOLhyphen"/>grees 31½ minutes, the one from the Northern, and the other from the Southern pole or diameter of the world, and are through the circumrotation of the heaven, deſcribed from the Pole of the Zodiak, or the courſe of the Sunne. The ancient &amp; moſt skilful Aſtronomers underſtand by the Circulus Arcti<g ref="char:EOLhyphen"/>cus not onely this which is deſcribed; but ſuch a circkel whoſe half Diameter or line which goeth through the midle point, is even as much as the heyght of the pole from every place, com<g ref="char:EOLhyphen"/>prehending alwayes thoſe ſtarres which before the heyght of every land never goe under, in which regard this circkel in all countreys which differ in breath, doth differ, as alſo from An<g ref="char:EOLhyphen"/>tarcticus: but in the aforeſayd deſcription wee follow the com<g ref="char:EOLhyphen"/>mon manner off the deſcribers off countreys. The earth is alſo through the aforenamed 4 laſt circkels, divided in 5 great re<g ref="char:EOLhyphen"/>gions, by the Grieck called Zonas, or girdels, becauſe that they in the form of girdels doe compaſſe the globe of the earth. The firſt thereof is environed or encloſed within the Northern circ<g ref="char:EOLhyphen"/>kel, and beareth the name of the Northern colde region. The ſecond is called the Southern colde region, running round a<g ref="char:EOLhyphen"/>bout the Southern Pole within the Southern circkel. The third, being the middelmoſt amongſt them all, is called the barren and hot region, and is ſituated betweene two Circkels of the Cancer or Crab, &amp; the ſigne of Capricornus. The 4<hi rend="sup">th.</hi> is ſituated betwixt the Northern Circkel and the Circkel of the Crab, and is called the tempered Norther Region. The laſt called the Southerne temperate region, is ſituated betwixt the Circkel of Capricornus and the Southerne Circkel. The olde Philoſophers and Deſcribers of countreys did ſuppoſe that off theſe few the two temperate alone where inhabited, and that of the other three, the two colde ones colde not be inhabited, in regard of the great intolerable colde, &amp; the barren hot region, in regard of the burning heat of the Sunne. But time in con<g ref="char:EOLhyphen"/>cluſion hath produced, the truth thereof: ſeing we have ex<g ref="char:EOLhyphen"/>perienced about 150 jears hence that they all are inhabited, but the colde leaſt of all, as Greenland, Yſland, Lapland, the utmoſt parts of Norway, and ſuch like countreys. Experience likewiſe hath taught us that in the barnen, hot region the heat is not untolerable, neither doth it burne in ſuch a manner as the Ancient conceived: fith there are found many excellent fruit<g ref="char:EOLhyphen"/>full and populous Kingdomes, as Gennee, Aethiope, Arabien, Eaſt-Indies, the famous Ilands Sumatra, Java and Molucquen, as alſo Breſilien, Peru, Nieuw-Spaine, and other ſuch like countreys.</p>
+            <p>For to have the right underſtanding of the ſituation of coun<g ref="char:EOLhyphen"/>treys, wee muſt knowe that the deſcribers of the earth calcu<g ref="char:EOLhyphen"/>late the ſame according to the degrees of length and breath. The breath of places (which is alwayes a like at the height of the Pole) is accounted from the midle line to be twofold, Northward or Southward to the number of ninety. The length is accounted from the Meridian-line, which runneth over the Pico de Tayda in the Iland Teneriffa, along de midle-line to<g ref="char:EOLhyphen"/>wards the Eaſt, to the number of 360, as for example, Am<g ref="char:EOLhyphen"/>ſterdam is ſituated 52½ from the midle-line towards the North, which is the breadth or the Poles heigth of the ſame city, and in the length 23 degrees, becauſe the ſame doth agree with ſuch a degree of the Aequinoctial, calculating from the afore<g ref="char:EOLhyphen"/>ſayd Meridian. De Cabo de Bona Eſperanca is ſituated on the breadth Southward from 34½ degrees, and in the length from 42 degrees. The countreys or cities ſituated under the ſame length, have alwayes at one time and moment alike midday, and alike houre of the day: as when it is noonetide at Amſter<g ref="char:EOLhyphen"/>dam, then it is alſo noonetide at Bergen in Norway, at Lions in France, at Algiers in Barbary, and ſuch like places ſituated in one length. But thoſe which are ſituated under ſeverall degrees of length, differ likewiſe in the calculation of houres; ſo that when it is midday in the forenamed places, then it is a Bantam in the Iland Java 7 houres and 12 minutes in the afternoone, becauſe the ſame city is ſituated 108 degrees in the length to<g ref="char:EOLhyphen"/>wards the Eaſt, for it differs every 15 degrees one houre; but in the city Lima, lying in Peru, it is 6 houres in the fore-noone, becauſe the ſame city is ſituated in the length about 90 degrees towards the Weſt, as Amſterdam. Thoſe alſo which are ſi<g ref="char:EOLhyphen"/>tuated under the like breadth or heigth of the Pole, have al<g ref="char:EOLhyphen"/>wayes alike length of dayes and nights: this is alſo to be under<g ref="char:EOLhyphen"/>ſtood, that thoſe who live on the ſouthſide of the midle-line, have the ſhorteſt day, when we have the longeſt: as they have the Winter when we have the Sommer, and we the Winter, when they have the Sommer. But they which are ſituated un<g ref="char:EOLhyphen"/>der an unequal breadth or heigth of the Pole, have alſo une<g ref="char:EOLhyphen"/>qual length of dayes and nights: for the farter a place is ſituated from the midle-line, how the longeſt day is greater there, and the ſhorteſt les. As for example they wol live under the Aequi<g ref="char:EOLhyphen"/>noctial line, have day and nigt thorough the whole jeare alike long, without change. They who live on the breath of 30 de<g ref="char:EOLhyphen"/>grees, have the longeſt day almoſt of 14 houres: on the breath of 50 degrees, the longeſt day hath ſtifly 16 houres. Under the Northern Circkel, which wee call Circules Arcticus, doth not the Sunne on the longeſt day, ſet or goe under the Horizon. On the breadth of 70 degrees doth not the Sunne ſet in 64 dayes: and ſo following the longed dayes encreaſſe till under the Pole, wherein the whole jear not more is then one day and one night, each continuing one half jeare.</p>
+            <pb facs="tcp:175592:5"/>
+            <p>Further more the Earth is divided ad this day in two great firm lands and parts, in <hi>Antiquam</hi> or olde and <hi>Novam</hi> or new America, called the new Worlde. The firſt called the olde Worlde, becauſe it was onely knowne to the Ancient, have the ancient Deſcribers of the Earth divided againe in tree parts to wit, in <hi>Europa, Aſia</hi> and <hi>Africa.</hi>
+            </p>
+            <p>EUROPA as ſome wil have it, hath its name from the Dochter of Agen, or King of Syrien, raviſhed by Jupiter, which others eſteeme to be fabulous, ſuppoſing that the Ori<g ref="char:EOLhyphen"/>ginall of this name is unkowne. The territories of Europe in the Weſt are the great Zea, in the ſouth the Mediterranean Zea, in the Eaſt the Archipelage, Pontus Euxinus, or Maeotis Palus, and the right line aſcending thither wards the Nord to the River Dwyna, from whence the Ys-Sea doth waſhe againſt Europe. Albeit this part of the Worlde be very ſmall in reſpect, of the other parts of the Earth, yet not with ſtanding it is com<g ref="char:EOLhyphen"/>mended above all other Countreys for its ſingular vertuet, &amp; ſpecially for the wholeſom and temperate ayr, the fruytfulnes of the Earth, &amp; abundance of all other neceſſaries for the main<g ref="char:EOLhyphen"/>tenance of Mans-life; being watered with many fayre Rivers, and furniſhed with many hot and colde water-veynes or ba<g ref="char:EOLhyphen"/>things, effectual and fit for the expelling of ſeverall diſeaſes. Here grow no drugs not precious ſtones, but abundance of Korne, Wine and als ſort of fayr tree-fruyt. Here are few cruel and pernitious beaſts, but tame Creatures in a greater multitude and fayret then one where. Thoug that which this Countrey doth moſt boaſt of, is the great multitude of its fayre, welbuilt &amp; populous cityes, which are here farre more in number, then in other parts of the earth. Europe hat formerly through the Monarchy of the Grecians and Romans, ruled as a Queene over the Countreys of Aſia &amp; Africa: al ſhee yet doth at this day through the Moſcoviters and Turckes, as alſo throug the Caſtilianen, Portugals and Hollanders, who have dominion over many places, countreys, Ilands, and potent Cities the<g ref="char:EOLhyphen"/>rein conteyned, and who doe ſubdue under theyr obedience almoſt whole America.</p>
+            <p>SPAYNE is the Weſtern, &amp; therefore alſo the firſt King<g ref="char:EOLhyphen"/>dom of Europe, of their inhabitans called Eſpanna, within name as alſo the People have theyr denomination and deriva<g ref="char:EOLhyphen"/>tion of certayn Province in Aſia, in former time called Pania, of pan who was Lord of the ſame. Spain is on all the 4 parts or ſide environed with the Zea, except on the North-eaſt-korner which is compaſſed about with the Pyrenian hils, for a ſeparation from Frans. 't Is a wonderful bleſſed countrey, not onely in reſpect of fruytful ground, but alſo of an healthy ay<g ref="char:EOLhyphen"/>re; thence it is that there is ſo faire a growth of Oyle, Sugar, Figs, Raiſons, Oranges, Lemmons, Citrons, Pomegranats, Kappers, and other medicinal hearps; and above all ſuch ſtrong and delicate ſorte of Wine as any where are to be had. The worldly governement of Spayne conſiſteth in a King, never<g ref="char:EOLhyphen"/>theles he doth not conclude of any nomentany affairs without the adviſe of the 12, who one with an other make up the high Counſel. The Eccleſiaſtical governement conſiſteth in Arch-Biſhops and Biſhop; the firſt are ten in number, the other more then vifty. Spain in our time is gotten under one King, which was never ſien before in 800 yeares, notwithſtanding conteyningh 16 ſeveral Kingdoms as may be ſeene in the Spaniſh Titels: but Caſtilien or Caſtilie, Arragon and Portu<g ref="char:EOLhyphen"/>gal are the chiefeſt, under which all the other reſort.</p>
+            <p>ARRAGON hath its denomination from the Province Tarroconenſis, in which it is ſituated, or from the city Tarragona. Its head or Mother-city is Saragoſſa, in former time called Caeſar Auguſta, placed on the river Ebro. In the midſt of this Kingdome is Monſon founded, wether the King once in three year doth reſort in his owne Perſon, for the receyving of his revenues.</p>
+            <p>The third krowne of Spayne conteyneth the Kingdoms of Portugal and Algarven; Portugal is laſt of all joyned unto the other Spaniſh Kingdoms. 't Is ſuppoſed that the revenues of the Kingdom import jearly two Millions of Ducats, which wealth doth moſt ariſe from the great trade which the Portu<g ref="char:EOLhyphen"/>gals drive upon Ginee, Braſil, and Portugals Indien; but the countrey is alſo fruytfull in it ſelf, affording many ſortes of Wine, Oly, and other commodities. The mayne City of Portugal is Lisbon, ſituated on the River of Tajo, an excel<g ref="char:EOLhyphen"/>lent and great city of Marchandiſe.</p>
+            <p>FRANCE, the nobleſt fruytfulſt and moſt potent King<g ref="char:EOLhyphen"/>dome of Europe, hath its name from the Frankes, a people of Germany, which 1200 years hence begin to conquer it. For the environing of this Kingdom is drawn in the North a line from Calis to the freedom of Straetsburgh; which line they of Artois, Henegou and Lutzenburg doe let lye on the left hand. In the Weſt Frans doth beath on the Sea of Aquitanien, nou Gujenne, and partly on the Pyrrhenian hils, which faſten and joyne it to Spayn, in the South is bordereth on the Mediterra<g ref="char:EOLhyphen"/>nean Sea; in the Eaſt the high hils (called the Alpes) divide it from Italy, the hil Jura from Helvetia or Switſerland, and the River Rheine from Germany. This countrey hath abundance of wheat and all other ſorts of Korne, of Wine wee find here many ſorts, and in ſuch abundance, that it doth not onely ſupply it ſelf therewith, but alſo Engeland, Schotland, the Lowe Con<g ref="char:EOLhyphen"/>treys, and many other places beſides, in the Southern parts of France is plenty of Oyle, Figs, Safferon there is ordinarely much kattel; wee finde there much Salt, Flax and Hemp. In this Kingdome are 14 Arch-Bisſhops, and above hundret Bisſhops. It is divided in 8 Parlaments or high Courts, to which the 21 head-Provinces there in conteyned, appeale. The ſame Par<g ref="char:EOLhyphen"/>lamens have their reſidence in the cities of Paris, Rouaan, Ren<g ref="char:EOLhyphen"/>nes, Bordeaux, Tholouſe, Grenoble, Aix, and Digion. In our time hath King Henry the Great of an immortal memory joy<g ref="char:EOLhyphen"/>ned his ſouveran Prinsdom of Bearn to the Krown, and there erected a ninth Parlament in the city of Pau.</p>
+            <p>ITALY, which many account for the fayreſt countrey in the World, ſhold have obtayned its name from the King Italus of Sicily, who firſt taught the Inhabitans husbandry. The Territories of Italy in the Weſt are, &amp; partly alſo in the North, the Alpes with the flood Varo, which divide this Country from Frans, Germany and Switſerland: forth thence forth the Sea waſheth round about it. The hil Apenius is as the back<g ref="char:EOLhyphen"/>bone of Italy, dividing the ſame in length allmoſt over thwart from the hils of Alpes to the Sea of Sicily. Italy hath for the moſt part a healthy and good temperate ayr, the ground is wonderful fat and fruitful, affording plenty off Korne, fruite, &amp; all ſorts off hearbs, ſeveral excellent good Wines, Oyl &amp; Flax, the fields are ful off tame, and the woods ful off wild creatures, the hils adorned througly with ſeveral Metals and ſtones. Here are found many waters repleniſhed with fiſh, many glorious and neatly-built and ſtrong cities, in one nord, this country is the right Paradijs off World. In Italy are 28 Arſh-Bisſhops and more then 200 Bisſhops; with many beautiful cities, off which theſe are the chiefeſt: Rome, Napels, Florence, Ve<g ref="char:EOLhyphen"/>nice, Genua, Milanen, Bolonien, Ravenna, Cremona, Pavia, Paedoa, Verona, Vicenza, Mantoua, Siena, Luca, Ancona and Livorne are the two chiefeſt havens. Meſſina and Palermo lye in Sicily. The Ilands of Sicily are ſpecially three; Sicily, Cor<g ref="char:EOLhyphen"/>ſica and Sardinien; beſides other little ones.</p>
+            <p>GERMANY, the greateſt Countrey off one name and Language in whole Europe, the Latiniſts call it Ger<g ref="char:EOLhyphen"/>mania, the inhabitans themſelves call it <hi>Teutſchlandt</hi> / the reaſon hereof is uncertaine. The linits off Garmany doe at this day ſtretch much further then in the dayes off Prolomy, for in the Weſt is paſſeth through the Rhine, and beateth at the French Lands of Loreyn and Bourgondien; in the South, it ſtretcheſt over the River Donau to the hils the Alpes, which divide it from Italy; in the Eaſt it bordereth on Pruſſia, Po<g ref="char:EOLhyphen"/>land, and Hungary, in the North on the North-zea, Den<g ref="char:EOLhyphen"/>marck, and the Eaſt-zea. 't Is a warlik Nation and a populous Countrey, no leſſe pleaſant then fruitful; it hath a ſweet Plea<g ref="char:EOLhyphen"/>ſant ayr, and plenty of Wines, which produce delicate good Wines. The Woods and Fields are repleniſhed with wilde and tame Beaſts, the Rivers and other Waters rich off Viſch: Here are found very faire Fountaines, and healthy baths; many of Iron, Steele, Kopper, Tinne, Gold and Silver. Germany is divided in the high and lowe Countreys. The high Coun<g ref="char:EOLhyphen"/>treys are called thoſe places which lye next to the Alpes, and conteyne thoſe following Provinces: Elſaz, Swaben, the County of the Pals on the Rhine, the Kingdome off Bohe<g ref="char:EOLhyphen"/>men, which, though the inhabitans thereof uſe another lan<g ref="char:EOLhyphen"/>guage, noth wichſtanding is comprehended within Germany and hath under it three Provinces; to wit, Marhern, Sileſien and Lauſnits. The County Tirol, Stiermarck, Carnten, and Carniola or Crayn. The Low-Countreys comprehend the Bisſhopricks off Ments, Trier and Coln, the County off Heſ<g ref="char:EOLhyphen"/>ſen, the Dukedoms off Saxen, Pomeren, Mekelenburgh, Meyſſen, Thuringen, Cleeff and Bergh, with the Countreys which doe depend on them. Under the Marqueſſe off Bran<g ref="char:EOLhyphen"/>denburg reſort Weſtphalen &amp; the Dukedom of Eaſt-Frieſlant.</p>
+            <pb facs="tcp:175592:5"/>
+            <p>THe LOW-COUNTREYS, which in time off the Romans moſt were conteyned in <hi>Gallia-Belgica,</hi> are at this day divided in 17 Provinces, bordering in the Weſt and South on Frances, in the Eaſt on the Rhine or the Maas, in the North on the Ocean. The ayre off theſe Countreys is thick and moiſt, but healthy and convenient; the ground for the moſt part even and ſmooth. The Low-Countres are very fruit<g ref="char:EOLhyphen"/>ful off Korne, and ſeveral ſortes off tre-fruyt; they afforde alſo much Flax, Hemp; there is alſo much catle to be found: but the chief of the countrey conſiſteth in fishing and navigation, whe<g ref="char:EOLhyphen"/>rein the inhabitants ſurpaſſe all other Nations. Theſe 17 Pro<g ref="char:EOLhyphen"/>vinces are partly ſubject under the Houſe off Bourgundien, partly free, and are governed in the manner of a comonon<g ref="char:EOLhyphen"/>weath. The Houſe of Bourgundien poſſeſſeth the Dukedoms off Brabant, Limburg, and Lutzenburg, and one Quartier off Gelderland, the Marquizdom off the Holy Empire on the Ri<g ref="char:EOLhyphen"/>ver Schelde, the Earldoms off Flandres, Artois, Henegou, Namen, and the Dominion off Mechelen. The free united Low-Countrey Provinces are theſe: three quarters of the Du<g ref="char:EOLhyphen"/>kedom Gelderland, and the Earldom Sutphen, the Earldoms off Holland and Zeland, and the great Dominions off Utrick, Frieſland, Overyſſel, and Groeningen.</p>
+            <p>HELVETIA or SWITSERLAND borders in the South, on Italy; in the Eaſt on the Earldom on Tirol; in the Weſt, on Savoyen and Bourgondien; in the North, on Eiſaz and Loreynen. It is a countrey which lieth in the midſt off the Alpes, and therefore accounted the higheſt Countrey off Europe, indifferent good and fruytful; free and reſpected off all its neyghbours, divided in ſeveral Cantons, which the call Or<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en. The chief cityes are Zurich, Bern, Lucern, Baſel, Friburg, Baden.</p>
+            <p>The Earldom off Walles, where of Sitten is the prime city, &amp; the Province off the Griſons or Graubunders, having Chur for a capital City, have bin long ſince in conſederacy with the Swit<g ref="char:EOLhyphen"/>ſers, and defend one another againſt theyr common enemies.</p>
+            <p>POLAND borders towards the Eaſt on Sileſien; hath for her Neygbours the Pruſſiaus, Littauwers, and Hungarians; it is a very fruytful Countrey off all ſorts off Korne. The chief city is Cracou, ſituated on the Weixel. Not farre from thence are mines off Salt. The chief commodities which are tranſpor<g ref="char:EOLhyphen"/>ted out off Poland in other countreys, are, Wheat, Rie, Flax, Wax, Wood and Lead.</p>
+            <p>DENMARKE is an indifferent great and large King<g ref="char:EOLhyphen"/>dom, on a wonderful manner parted and divided throug the ſea. Its extremeſt Province is Jutland, in former time called Cimbrica Cherſonneſus. This countrey bordereth in the South an Germany, being forthwith environed with the ſea, for the moſt part it is fruytful and rich off Korne, except in the North, where it is ſandy and barren. Out of Denmark are conveighed to other parts multitude of Oxen and Horſes, much Butter, Hides, Viſch, &amp;c. The chief city is Coppenhaven, where the King deepes his court, and where there is an Univerſity.</p>
+            <p>NORWAY hath on the Eaſt Sweveland, on the Weſt the Ocean, on the South Denmarke, and on the North Lapland. The Weſt and South Quarters of the Countrey are of an indifferent temperate Climate, but on the North the ſoile is unfruytful, and not able to feed and ſupports its habitans. Out of Norway cometh plenty of Stok-viſch, great quantity of pelt, hides, trane, tarre, maſts, ſpars, plankes, &amp; other ſort of wood.</p>
+            <p>SWEDEN or SWETHELAND boundeth in the Weſt on Norway, in the South on Denmarke; in the Eaſt on the white Sea and Moſcovia; in the North on the Ys-Sea. This Kingdom is one of the fruitfulſt Quarters of the North, &amp; affordeth much Korne, Hony, Wax, Pelts, Hides, Roer, Silver, Steele, Lead, Iron and Kopper. The head or chief city of the Kingdom is Stokholm, where the King keeps his Court.</p>
+            <p>MOSCOVIA hath towards the North the Sea Petzor<g ref="char:EOLhyphen"/>ke, towards the Eaſt the Tartarians; towards the South the Turks; &amp; towards the Weſt, the Littauwers, Lijflanders, and the Swethers. The chief city is Moſcou, there the great Du<g ref="char:EOLhyphen"/>ke (whone the Subjects call the Emperour of Ruſſia) keepeth his Court. The principall commodites which are from hence tranſported unito other Countreys, are Flax, Hemp, Wax, Eland &amp; Oxen-hides, ſeverall precious pelts, traan &amp; ſalt viſch.</p>
+            <p>LIFELAND bordereth in the Eaſt on white Ruſſenland of Moſcovia; in the South on Samogitien, which is a part of Litta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; in the Weſt and North on the Eaſt-Sea. The chie<g ref="char:EOLhyphen"/>feſt city is Rigs, not farre from the mouth of the River Dwyna. Ith affordeth much hony, Wax, Asſhes, Pick, Taar, and Pelts.</p>
+            <p>HUNGARY hath for her Neygbours on the Eaſt Moldavia; and Walachia; on the South Boſnia and Croatia, towards the Weſt Auſtria or Oſtenreich, and towards the North, Poland. The ground is exceeding fruytful of Korn, Wine, and all ſort of Victuall, of kattel here is ſuch great plenty as that the ſheep and Oxen are ſent in abundance to Germany and Italy. Here alſo are found many Mines of Gold, Silver, Kopper, Iron and Steele.</p>
+            <p>SLAVONIEN is environed betwixt Hungary, Italy, the Gulf of Venice and Grece: containing Liburnia, Croa<g ref="char:EOLhyphen"/>tia, Boſnia and Dalmatia. The Turke hath a great part thereof in poſſeſſion, another part the Emperour of Germany, the reſt being ſituated on the Zea, is under the dominion of the Ve<g ref="char:EOLhyphen"/>netians.</p>
+            <p>GREECE, in former time a Mother and Nurſe of all ſort of learning, but now a bondſlaaf of the unbeleeving Ma<g ref="char:EOLhyphen"/>humetiſts, and an habitation of the Turkiſh Emperous, is en<g ref="char:EOLhyphen"/>vironed on the North with Bulgaria and Servia; and forth with on the Weſt, South and Eaſt compaſſed about with the Sea. The commodities which are brought out of Greece and con<g ref="char:EOLhyphen"/>veyghed to forreine places, are, gold, ſilver, kopper, kopperas, ſevral dying ſtuffe, wines, oyl, flus, Damaſts, &amp; Turkſch Grog<g ref="char:EOLhyphen"/>greins. Greece or Grieckland hath allmoſt innumerable Ilands, among which the greaſt and moſt famous, is, Candia, in for<g ref="char:EOLhyphen"/>mer time called Creta, affording very precious and delicate Wines, Moſcadel and Malveſii, Curtens, Scarletdie, Sugar, Criſtal, goat-skins, Oyl, Hony, Wax, and healing hearbs.</p>
+            <p>The chiefeſt Ilands of Europe, ſituated in the great Sea, are, Brittaine, Yreland and Yſland, Brittaine (which certaine yeares hence is happily reduced under one Kingdom) was here to fo<g ref="char:EOLhyphen"/>re divided in Engeland and Scotland.</p>
+            <p>ENGLAND which with Scotland maketh the greateſt Iland of Europe, bearing abundance of good wheat and other ſort of Korn, and beautified with many rivers wherein is plenty of fish, hath many commodious havens: alſo mines of Gold, Silver, Lead, Iron, and eſpecially much precious Tinne: There are ſeveral ſortes of creatures, (ſerving for the ſuppor<g ref="char:EOLhyphen"/>tance of Man) and chiefly a great multitude of fine Wol-bea<g ref="char:EOLhyphen"/>ring ſheepe, which indeed is the right golden fleece of this Ro<g ref="char:EOLhyphen"/>yal Iland. The chief city of whole Engeland is the glorious city London, ſituated on the River Teems, with a bridge over it, which is accounted one of the fayreſt of Europe. From hence come ſeveral ſorts of Wollen clothes, Saffron, Tinne, Lead, Wheat, Baarly, Beat, Dried herrings, and Sea-koles.</p>
+            <p>SCOTLAND compaſſed round about with the Sea, except on the South where it boundeth on Engeland, is not ſo fruytful, hath notwitſtanding all neceſſaries for the ſup<g ref="char:EOLhyphen"/>portance of life. The chief city is Edenbourrough. Scotland affordeth many ſortes of courſe Wollen clothes: Wool, Malt, Hides, Fish and Stone-Koles.</p>
+            <p>YERLAND is ful of lakes &amp; ſtanding Pooles, hath good fat paſtorage, alſo abundance of tame and wilde Beaſts. This Iland hath an healthy ayre, beareth no venomouſthing. The inhabitants are rude wilde People but through the con<g ref="char:EOLhyphen"/>verſation &amp; governement of the Engliſh begin to be more &amp; more tamed. On the fields grow much gras, where in goe ma<g ref="char:EOLhyphen"/>ny kie &amp; ſheep, but are ſomwhat leſſe then in other countreys.</p>
+            <p>YZLAND is in length about hondert dutſch miles, for the moſt part unbuylt and hilly, in the valleys is much katle and gras, there groweth no Korne or other trees then bark and Junipertrees. The inhabitans make bread of beaten fiſh, wont to drinke water, but mixe it now with Korne, which is brought to them from forreyne places. They live moſt, in caves or holes under the earth, and account the Mountaines for theyr cities, make theyr houſes of fiſh-bones. They in the Eaſt-countrey deale much for Yſland, and exchange ther com<g ref="char:EOLhyphen"/>modities for brimſtone, dry Fiſh, Roet, Butter, Skins of wilde and tame Beaſts, white Faulkes, Horſes, and other commodi<g ref="char:EOLhyphen"/>ties. In this Countrey are two Bisſhopricks, Holen and Schal<g ref="char:EOLhyphen"/>holt, which have ſome Nunneries under them. Here as alſo in other Northern parts are found many white Beares, which are exceeding fierce and cruel.</p>
+            <p>ASIA the ſecond part of the olde World, is in the Weſt divided from Europe throug the Rivers the Don and the Dwina; from Africk throug the narrownes, betweene the Me<g ref="char:EOLhyphen"/>diterranean and the red Seas; on the Eaſt it ſtretcheth to the Chineeſch or Eoiſch, on the North to the Scytiſh, and on the South to the Indiaen Sea. It doth farre ſurpaſſe Europe and Africk, as alſo other parts of the World, in largenes, riches,
+<pb facs="tcp:175592:6"/> plenty of ſpices, precious ſtones, koſtly Pearles, and other rarities. This part of the world hath bin in all former times the moſt famous; for from hence aroſe firſt all dominions, where by the world hath bin governed. Man hath bin there firſt crea<g ref="char:EOLhyphen"/>ted of God, placed in Paradijs, ſeduced throug Satan, and re<g ref="char:EOLhyphen"/>deemed throug Chriſt our Saviour. Here alſo hapned moſt all that hapned in the olde, &amp; eſpecialy that in the new Teſtament.</p>
+            <p>All the Countreys of Aſia are divided in ſix parts: where of the great Duke of Muſcovien doth poſſeſſe a part; the ſecond is under the Tyranny of the great Turk; the third under the Power of Tartarians; 4<hi rend="sup">th.</hi> under the Dominion of the mighty King of China; the 5<hi rend="sup">th.</hi> are the rich Countreys of Indien, and the 6<hi rend="sup">th.</hi> and laſt part is under the command of the Sophi, or King Perſien. To Aſia likewiſe appertaine an innumerable mul<g ref="char:EOLhyphen"/>titude of Ilands, among which theſe are the chiefeſt, Cyprus in the Mediterranean Sea, furthermore in the Indian Sea, Zeil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, Sumatra, Java, Borneo, Celebes, Moluccen, Banda, Gilolo, Luconia and Japan.</p>
+            <p>Of Muſcovia wee have treated here to fore in the Deſcription of Europe, ſith the moſt part thereof is ſituated in Europe.</p>
+            <p>That which the great Turk doth poſſeſſe in Aſia, are all the Provinces of Natolia (formerly called Aſia the leſſe) ſmall Ar<g ref="char:EOLhyphen"/>menia, and a part of a great Armenia; Diarbech (in former time Meſopotamia) Syria and a great deal of Arabia. The chiefeſt Mart-townes in theſe Countreys are, Trapeſonda, Aleppo, with the Sea-havens Tripoli, Amon, Damaſco, Baruti and Mecha. Theſe Countrey affoard much ſilk, Taſti, Damaſts, Turks Groggrein, Kotton and Scarletdie. The other part of Arabia reſorteth under ſeverall Kings, there in is ſituated the famous city Aden: from thence come very fayre Pearles; the unfeygned Balzem-Oyl, Franckincenſe, Myrrhe, and ſuch<g ref="char:EOLhyphen"/>like commodities.</p>
+            <p>TARTARIE are in one name tearmed all the Coun<g ref="char:EOLhyphen"/>treys, ſituated, with a large and confuſed comprehenſion, Eaſtward from the Eaſtern Ocean, betwixt the Northern Yz-Sea and the Southern Countreys, as China, that part of In<g ref="char:EOLhyphen"/>dien without Ganges, the River Oxus, the Caſpian and Meo<g ref="char:EOLhyphen"/>tian Sea to Moſcovien weſtward. The inhabitans are called Tartarians, who are ordinarily ſtrang; ſtout and bold People, and who eaſely ſuffer hunger, heat, and cold. They have no cityes, villager nor houſes, but dwel by companyes (which they call Hordas) with wives, childern and cattel (in tabernakels &amp; tents in the fields) now here, to morrow elſewhere, whereſoe<g ref="char:EOLhyphen"/>ver they finde good paſtorage for theyr cattle, to wit, Oxen, Sheep, Horſes and Kamels, with whoſe fleſh, blood and milk they ſuſtaine themſelves. Theyr Prince one or the greateſt Po<g ref="char:EOLhyphen"/>tentates of the Earth they call Cham (that is Duke) to whome they ſhew ſingular obedience.</p>
+            <p>CHINA which is accounted the greateſt, powerfulſt, &amp; richeſt Kingdome of the whole World, is compaſſed on the Eaſt and South with the Orientall Ocean, which the An<g ref="char:EOLhyphen"/>cient named Mare Eoum; on the weſt with India and Bramas; and on the North it is joyned with Tartary, where the Kings have divided it with an admirable wall of 400 miles in length, buylt betwixt the hils. It is divided in 15 Kingsdoms or great Provinces, they have each a Prince or King of theyr owne, who againe ſubmit themſelves all unto one ſupream King; who is able (according to the relation of the Portugals) in time of war<g ref="char:EOLhyphen"/>re to bring in the field moor as 300000 Footemen and 200000 Horſemen. It is very fruytful of Korne, kattel, tame and wil<g ref="char:EOLhyphen"/>de: it hath alſo mines of precious ſtones, gold, kopper, iron, ſteel and pearls and ſpecialy there is great abundance of ſilk: it conteyneth great migry citities, which alſo are very populous. Of the great and glorious city Paquin (where the King hath his reſidence) are almoſt incredible things written. The inha<g ref="char:EOLhyphen"/>bitans are very witty and ſutle, inespecially in Manifactuurs, they make wagons with which they ſayle over Land, as with ſhips in the Zea. The art of printing and making of pieces of ordonances hath bin by them farre ſooner in uſe as by us. They have good civil lawes, according to which they live; but the true knowlegde of God they want, ſith they are heathens, and adore Sun, Moone, and other idols, jea the Divel hunſelf, leaſt he doe them any evil. The principal commodities which come out of China, are, gold, precious ſtones, musk, rhubarb, the root China, fine earthen platters, abundance of ſilke, ſugar, rijs, cotton, linnen and korne.</p>
+            <p>INDIEN ſituated betwixt Perſien, the hil Tauri, China, &amp; the Indian Sea, is (as all writers Witnes) the beſt and nobe<g ref="char:EOLhyphen"/>leſt Countrey on Earth, or which produceth the beautifulſt &amp; beſt fruit, as wel thoſe which ſerve for Mans ſuſtenance a plea<g ref="char:EOLhyphen"/>ſure. It repleniſheth the whole World withis precious ſtones and pearles, koſtly ſpices, medicinal drugs and perfumes, in ſuch a manner that (if Paradys where no where to be had) this whole Countrey might betearmed a terreſtrial Paradys. Many Kingdoms and rich countreys are therein conteyned, as the Kingdom of the great Mogol, which is properly Indien, Cam<g ref="char:EOLhyphen"/>baja, Orixa, Bengala, Aracan, Pegu, Malacca, Siam, Tipura, Gouro, &amp;c. Calicut, ſituated in Malabar, wont not long ſince to be the chief city of whole Indien, which at this time is called Coa: here have the Deputy of Portugal, the Arch-Bisſhop, the Kings Counſel and the Chauncellors theyr reſidence, to commaund over all the Quarters of the Eaſtparts appertayning to the King of Spayne. Among many ſtrange thing and trees which grow in Indien, are the tree de Rais and the tree Triſte very wonderfull. The tree de Rais or root-tree groweth firſt from below as other trees doe, but ſpreading its branches, they grow ful of ſprigs and roots, which bowing &amp; growing down<g ref="char:EOLhyphen"/>ward to the earth, at laſt grow faſt there and take root, and in progres of time grow ſo thick as the firſt root, ſo that they are hardly to be diſcerned one from anoter: out of which againe others round about grow to an innumerable number; ſo that ſuch trees in time ſpread themſelves in a round circle an Italian mile farre; and not onely that the lowes branches thruſt theyr twigs &amp; rootes downwards (which afare of is as a deal of han<g ref="char:EOLhyphen"/>ging hemp) but alſo the uppermoſt higheſt, in ſuch a manner that one onely tree maketh a cloſe wood.</p>
+            <p>De Arbore triſte or the ſadtree, ſo called, becauſe he doth not ſlouriſh by day but alwayes by night; a ſtrange thing to behold. As long as the Sun is not ſet, this tree appeareth as withered, and when the Sunne is ſet, there is no bloſſom to be ſeen on it; but preſently an half houre after, it is as ful of bloſ<g ref="char:EOLhyphen"/>ſoms as may be, very faire to behold, and of an exceding plea<g ref="char:EOLhyphen"/>ſant ſmel, and continueth ſo the whole night: but as ſoone as the day and Sunne returneth, doe all the bloſſoms fall of, that there remayneth not one on the tree, and cover the Earth, and the leaves ſhut themſelfs half, ſo that he ſeemeth to be withe<g ref="char:EOLhyphen"/>red and dead; this continueth til evening, then it beginneth to get bloſſoms as before; and continueth ſo the whole year.</p>
+            <p>PERSIA very famous in reſpect of the 2<hi rend="sup">de</hi> Monarchy, comprehendeth many Countreys and Provinces, is a very potent rich countrey, and is governed by the Sophi, who (though he be a Mahumetiſt) warreth continually againſt the Turck for the religion of Mahumet, and that in reſpect of the ſeveral expoſitions of the Alcoran. Out of Perſia are brought precious ſtones, Oriental Pearls, the cordial ſtone Bezoar, much ſilk-work, and very fayr Horſes.</p>
+            <p>The nobeleſt &amp; fayreſt Pearls which are found in the whole Eaſt, and which are called the right Oriental Pearls, are found in the Gulf of Perſia, betwixt Ormus and Baſſora, in the Pla<g ref="char:EOLhyphen"/>ces of Bare in Caryffa, Julfar &amp; other places thereabout. Theſe are fished by Divers, which are therein experienced, going ten, twelff, twenty and more fathoms under water, and growe in Oiſters, which the Dippers (being naked) grable ſwiffly on the bottom, and with a ſmall baskef, which they have bound about theyr body bring them with them above water; being layd in the Sunne, they goe open of theyr owne accord, and therein are found the Pearls.</p>
+            <p>ZEYLAN is one of the beſt and fruytfulſt Ilands which are knowne at this day, the Earth is there alwayes green, and the trees loadened with bloſſems and fruit, producing the fayreſt Oreng appels, Lemmons, Citrons, and ſuch like fruyt. The beſt Cinamon groweth here with hole bonſhes. This pleaſant fruit is the ondermoſt or ſecond rind of tree, is cut of in foure ſquare pieces, is of an aſch-colour, being laid in the Sunne and rould up together, it becommeth red, and in three years after the trees have theyr rinde or bark again. Beſides many other creatures there are multitude of Elephants, which are ſuppoſed to ſurpaſſe all Elephants of other Countroys in wit and nobilite.</p>
+            <p>Weſtward from Zeylan are ſituated the Ilands Maldivia, more (as is reported) then eleven thouſand in number, which are moſt inhabited, and ſome for theyr lownes not inhabited: here are not much other commodities then Coques, that is, Indian nuts, and theſe in ſuch abundance, that the Inhabitants doe wholy maintaine themſelves with them, &amp; the leve almoſt whole Indien. The rind, or, that which ſitteth about the fhel of this nut is the hemp of Indien, where of they make kabels &amp; all ſortes of ropes. They make theyr Ships of the wood of this tree, and ſewe them together with koardes made of this afore<g ref="char:EOLhyphen"/>named rind, without the uſe of an iron needle. The leaves of
+<pb facs="tcp:175592:6"/> the tree they uſe for theyr ſayles. In one word, the ſhip withal its appurtances, they victual and alſo merchandize where with it is loadened is all of this onely date tree, which maintayneth all the Inhabitants of theſe Ilands.</p>
+            <p>SUMATRA which in former times (according to the Opinion of many) was wont to be called Taprobana, is divided under ſeverall Kings: of all theſe is he of Achem the moſt potent. Here groweth (beſides ſeverall other ſpices) plen<g ref="char:EOLhyphen"/>ty of very good Peper. Alſo there are mines of ſeverall mettals, whereof the Inhabitants make good peeces of Ordonnance. Here are found very big Elephants, which being tamed, are very fit for warre, they have theyr reſidence in the woods, by whole troupes: here is alſo to be ſeen the creature Rhinoceros, the arch-anemy of the Elephant, and thoug it be farr leſſe, yet notwithſtanding it dare enter battle with it: it doth whet its hornes againſt the rocks, and thereby endeavoureth to teare up the belly of the Elephant. Many judge it to be the right Unicorn. What ſoever part of body this creature hath, but eſpecially the horne, is accounted very precious for the expel<g ref="char:EOLhyphen"/>ling of all venome.</p>
+            <p>JAVA is very fruitfull of ſeverall ſpices and Indian fruyts, eſpecially here groweth great plenty of Pepper. Is divided among many Kings, of which the great Mataran, he of Bantam, and he of Tuban are the mightieſt. They who dwel on Sea<g ref="char:EOLhyphen"/>ſhore are Mahumetiſts, in the Countrey they are heathens. On Java the Hollanders have buyle the city and ſtrong fort Batavia where formerley Jacatra hath bin; it is the chiefeſt Colonie &amp; reſidence of the Governeur.</p>
+            <p>BANDA is a ſmall Iland, but very famous; for here alone and on ſome Ilands thereabout grow all the nutmucks &amp; Mace, which are diſperſed in great plenty over all the World. The trees on which the nutmeks grow are ſomething alike the pear-tree of perſick-tree, onely that they are ſmaller. The nut<g ref="char:EOLhyphen"/>meks are covered with a threefold ſhel or rinde: the outmoſt is as the green rindes of acornes: when theſe are ripe, they divi<g ref="char:EOLhyphen"/>de or ſeparate themſelves aſunder, and then there is to be ſeene a rind or baſt, like a ſmall net, where with the fruit is compaſ<g ref="char:EOLhyphen"/>ſed about, fayre red of colour, like unto ſcarlet, pleaſant of ſigt, which wee call Mace or the blom of the nutmek. When the fruit is ripe and groweth drye, the Mace breaketh forth, and becometh then an Orange couler. The third rinde or ſhel is ſome what harder &amp; woodeniſh then the former; as the acor<g ref="char:EOLhyphen"/>ne-nuts, ſafe that it is blackiſh, and that being opened, the<g ref="char:EOLhyphen"/>rein wee find the Nutmek. Three times in the jear theſe trees afforde ripe fruit, to wit in Auguſt, in December, and the beſt and moſt in April. In Banda is to be ſeene a wonderfull bird, which they call Eme, being almoſt once as big as a Swan, ha<g ref="char:EOLhyphen"/>ving black feathers, but no winges nor tong, above its head it hath a ſharpnes or ſhield, as a ſhell-crab, he doth protect and defend him ſelf with his ſtrong hookes, ſtriking behind him as a horſe. He devoureth all that is caſt before him, thoug it were apples as big as a fiſt, and that which is moſt to be admired, bur<g ref="char:EOLhyphen"/>ning koles and great pieces of ice. In the year 1596 have the Hollands Ships brought ſuch a bird a live at Amſterdam, for an admirable rarity.</p>
+            <p>The Ilands of Moluccen, ſituated under the Aequinoctial li<g ref="char:EOLhyphen"/>ne, and a little towards the North (thoug they be ſmall) are notwith-ſtanding famous over the whole world, in regard of cloves which growe onely in theſe places; and are vijf number, to wit, Ternate, Tidore, Motir, Machian and Bachian. The trees on which the cloves grow, are like the laurel-tree or bay<g ref="char:EOLhyphen"/>tree in bignes and faſhion, onely that the leaves are ſmaller; like unto the almond or willow-leaves, they have many twigs and plenty of flowers, which firſt are white, afterward green, and at the laſt red and ſomewhat hard, and doe change in the<g ref="char:EOLhyphen"/>ſe fruit, which wee call cloves. When theſe flowers are green they have the moſt pleaſant ſmel above all flowers in the Worl<g ref="char:EOLhyphen"/>de. The flowers grow very cloſe together in great quantity on the utmoſt of the ſprigs, as the berryes of the Myrtle-tree. Theſe Ilands afford very little to the ſuſtenance of man life; here groweth no rice nor korn; there are alſo no catle, but fewe bukgoat and hens. Theyr bread they make of ſome trees and roots. Onely in theſe Ilands are to be found the Paradijs-birde, which in ſtrange &amp; beautiful feathers ſurpaſſeth all other birds in the World.</p>
+            <p>AFRICA, the third part of the old World, is divided from Europe through the Mediterranean, and from Aſia through the red Sea. The chief Countreys of Africa are Bar<g ref="char:EOLhyphen"/>Bary, Aegypt, Biledulgerid, Sarra, the Countrey of the Ethio<g ref="char:EOLhyphen"/>pians, the Abiſſines, of Prieſt Johns Countreys, and Meno<g ref="char:EOLhyphen"/>motapa. The Iſlands appertaining to Africa, are thoſe of Ca<g ref="char:EOLhyphen"/>naria, Cabo de Verde, S. Thomas Madagaſcar, &amp; Sacotora. Out of Africa are brougt in Europe, Gold, Yvorie, Eben-wood, Aloe, the Aegyptian Balzem-olye, Mumia, Myrrh, Feathers, Sugar, Ginger, Daats and ſome Wines from Madera, and the Ilands of Canari<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n.</p>
+            <p>BARBARY, the beſt part of Africa, hath on the South the mountaynes of Atlas; on the Weſt, the Atlantiſh; &amp; on the North the Mediterranean Zea. It is divided into four Kingdomes, as Marocco, Fez, Teleſin and Tunes it is wate<g ref="char:EOLhyphen"/>red with many Rivers, which flowing out of the hils Atlas, Powreth out her waters in the Mediterranean Zea. The King<g ref="char:EOLhyphen"/>dom of Fez, which is farre forth the mightieſt of Barbary, hath its name derived from the Mother-city Fez, a fayr and popu<g ref="char:EOLhyphen"/>lous city partly environed with Walls and fortwith mountai<g ref="char:EOLhyphen"/>nes and rocks. It is reported that in the ſame are 700 chur<g ref="char:EOLhyphen"/>ches, where of the Mother-church comprehendeth a large round place, having 30 high and very ſpacious dores. Here grow ordinarily many daats, Oranges, Olives, Figs, and ſuch like fruyt, but not much wine. The Inhabitants are white or jollow Mores, commonly an upright and good, but dom and uncapable people.</p>
+            <p>EGYPT hath bin many years hence a famous Countrey, ſo admirable fruytful, when the River Nile doth but keepe its ordinary courſe, and flowe 13 cubites over the Land, that the Poët Lucan doth highly extol it. The aforeſayd flood be<g ref="char:EOLhyphen"/>ginneth commonly to encreaſe in the beginning of June, and continueth 40 dayes: then it doth by litle and litle decreaſe, &amp; as ſoone as any part of the Countrey runneth drie, they begin to caſt theyr zeed in the earth, not ſtanding in need of rayne or any other humidty. The Aegyptians have bin in former times very futtel and witty, great Aſtronomers and Phyſicians, but exceeding ſuperſtitious.</p>
+            <p>The Pyramides, which are reckoned among the ſeven mi<g ref="char:EOLhyphen"/>racles of the world, where formerly erected in this place by theyr Kings, eyther for vayn glory and oſtentation of theyr great power and wealth, or to keep the people in action that they might not betake them ſelves to ydelnes.</p>
+            <p>ETHIOPIA or ABISSINEN hath northward Ly<g ref="char:EOLhyphen"/>bien and Egypt; towards the Weſt the River Nigar, and the Kingdom of Congo; towards the South the Maensber<g ref="char:EOLhyphen"/>gen; and towards the eaſt the Kingdoms of Melinde, Maga<g ref="char:EOLhyphen"/>doxa and the red Sea, and though here grow but little korne, notwithſtanding it beareth much fruyt, unkowne to us, firſt for maintenance of Mans life. The Inhabitans are Chriſtians have one King who by us is called Prieſt John, but by them Acegue &amp; Negus, that is Emperour and King: He writes that he is of the houſe of David: is able to rayſe ten hondert thou<g ref="char:EOLhyphen"/>ſend Men of warre, and 500 Elephants, beſides a great num<g ref="char:EOLhyphen"/>ber of horſes and Camels, they have one Patriarch, whome they call Abuma, who is the head of the Clergii: have Cloi<g ref="char:EOLhyphen"/>ſters for Men and Women, but the Monkes as alſo the Prieſt being married, muſt maintaine themſelves with theyr own la<g ref="char:EOLhyphen"/>bour and husbandry. They mixe the goſpel and the old Teſta<g ref="char:EOLhyphen"/>ment among one another: circumciſe both male and female kind, and baptize them with water and fire, to wit, in burning ſome tokens on theyr face; and the baptiſm of water is yearly revewed by them. They keep alſo lent; which continueth with them 50 dayes, with water and bread, and ſome of them with green hearbs. They have beſides theſe many other cere<g ref="char:EOLhyphen"/>monies &amp; ſuperſtitions to tedious to relate.</p>
+            <p>BILEDULGERID beareth that name from the palm or Daat-tree, which groweth here in quantity. The Inha<g ref="char:EOLhyphen"/>bitants are dul &amp; borſh, without any good lawes or manners. All theyr trade conſiſts in dates and Marmelſtone, which they exchange with the Outlanders for Korne, which no where is ſowed here.</p>
+            <p>Hitherto we have ſhortly run over the chief Countreys of the Old World: now follow the New World of America, which in the diviſion of the whole earth, we place for the ſecond part, which ordinarily is placed for the 4<hi rend="sup">th.</hi> part of the World. This Countrey hath bin unknowne to the Ancient, and found in the year of our Lord 1497 by Americus Veſpuſius a Florenti<g ref="char:EOLhyphen"/>ne, after whome it is called America; though this honour be not without reaſon attributed to Chriſtopher Columber of Geneve, who in the year 1492 firſt hath diſcoured it. It may be almoſt divided in two Ilands: ſith it is onely with a ſmal neck annexed unto Panama and Nombre de Dios. The Northern part comprehendeth New Spain, Florida, Virginia, the New Low-Countreys, New Frans, New England, Canada, &amp; Terra
+<pb facs="tcp:175592:7"/> Nova, on the North it is yet unknowne; the South part con<g ref="char:EOLhyphen"/>teyneth Guajana, Caſtilia del Oro, Peru, Chili, Braſilien, Paraguay, and other Provinces more.</p>
+            <p>NEW-SPAYN conteyneth many Provinces and Na<g ref="char:EOLhyphen"/>tions of ſeverall languages. The chief city of this Coun<g ref="char:EOLhyphen"/>trey is Mexico, a Queen of all the cities of the new world. Be<g ref="char:EOLhyphen"/>fore the Spanjards came hither, the number of the houſes were 70000, and was ſituated in the midſt of a great or large lake or ſtandingh poole, almoſt as Venice: but Ferdinandus Cortez, who in the jears 1519 and 1520. hath brought theſe Coun<g ref="char:EOLhyphen"/>treys under the command of the King of Spayn, hath tranſpor<g ref="char:EOLhyphen"/>ted the city on the ſhore of the lake, and is at he preſent a wel<g ref="char:EOLhyphen"/>built city. The other principall cities next to Mexico, are, Com<g ref="char:EOLhyphen"/>poſtella, (where the Bisſhop hath his ſtool, and the Kings Council her reſidence,) Colima or Purficatio, Guadalajara, Mechoacan, Sacatula, and Civitas Angelorum, or the city of Angels. The commodities which are tranſported hence unto other parts of the World, are Gold, Silver, Pearls, Balzem-Oyl, Concenille or Scarlet-die, Salſaparilla, the reat Mechoacanna, Brimſtone and Hides.</p>
+            <p>FLORIDA is pleaſant and indifferent fruitfull countrey. Here growe mulberries, cherries, cheſnuts, grapes, medlers and prunes. Here are alſo ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, goates, beares, leopards, and many other creatures; alſo peakocks, partridges, parrets, and manifold birds, which are yet unknown to us. In the Rivers are many and ſeveral Serpents, and many Crocodils, which the inhabitants moſt continually ſeek to oppoſe. As for the man<g ref="char:EOLhyphen"/>ners of the inhabitants, they are for the moſt part rude and not chaſt. They doe not let their Children learn na art nor trade, neither reprove them for their faults. From robbing and to keep that which they have tobbed as their owne, they make no conſcience. Every one nothwithſtanding hath his owne wife, and are very jealous, account no thing ſo precious as the cu<g ref="char:EOLhyphen"/>rious colours of the feathers of birds. They doe beleeve the im<g ref="char:EOLhyphen"/>mortality of ſoules, but are otherwiſe Idolaters.</p>
+            <p>PERU, the moſt famaus place of all Countreys in the world, hath on the North Caſtilia del Oro; on the eaſt the hils; on the South Chili; and on the Weſt the great Southern Zea. The prime city is Lima, otherwiſe called Ciudad de los Reyes: there the Deputy hath his reſidence, alſo the Arſch-Bisſhop, having under him for Bisſhops-cities, Quito, Cuſco, Guamanga, Guanuco, Popoian, Gajaquil, Chacapoias, Porto Vejo, Arequipa, Plata, Trugillo, Charchi, S. Miguel &amp; S. Fran<g ref="char:EOLhyphen"/>ciſco. This Countrey is temperate of ayr, very populous, and fruitfull of precious ſtones, bezoar-ſtone, Salſaparilla, and eſpe<g ref="char:EOLhyphen"/>cially of gold and ſilver: for it is accounted for one of the richeſt in the world in regard of this acceptable and deſirable Metall; which is alſo eaſily to be conceived from the great treaſures which have bin many jears hence, and yet are, conveyged thence. That which the Hiſtorians write of Peru is almoſt in<g ref="char:EOLhyphen"/>credible. Atabaliba, King of Peru, when the Spanjaerts came firſt thither, &amp; tooke him priſoner, offered for his redemption, to fil up the place, where he lay impriſoned, with gold, ſo high as he ſtanding on his toes, where able to reach with his fin<g ref="char:EOLhyphen"/>gers; the place was 22 feet in length, and 17 in breadth; or if they rather wold have Silver, he wold fil the place twice up to the top of the houſe. It appeareth alſo out of hiſtories, that the Spanjards in their firſt coming thither did cover the hoofs of their horſe with Gold and Silver, from Peru are tranſported in to Europe Gold, Silver, Precious ſtones, Beſoar-ſtone, Salſapa<g ref="char:EOLhyphen"/>rilla, and more other things of an healingh nature.</p>
+            <p>CHILI is alſo larg Countrey, rich of Gold, but as yet litle knowne, much leſſe conquered by the Spanjards, againſt which nation the inhabitans (for the defence of their liberty) continually warre, wherein alſo they carre themſelves manly.</p>
+            <p>BRASIL is towards the eaſt and north compaſſed about with the Sea: towards the weſt &amp; north it hath the large River of the Amaſones, and to the South de Rio de la Plate. This is a very pleaſant and fruitful Countrey, and of an healthy ayre. This Province is divided by the Portugals into 9 gou<g ref="char:EOLhyphen"/>vernments, which they call Capitanias, other doe reck on 14, to wit, S. Vincent, R. de Jenero, Porto Seguro, Spirito Santo, Itheos, Bahia, Seregipe, Phernambuco, Tamaraca, Parayba, Rio Grande, Ciara, Maranhahon, and Para; though ſome of theſe ſurpaſſe the bounds of Braſil. The inhabitants are called Margajaten, Trabajaten, Ovetacaten, Tovoupinambaultien, Morpions, and many more: moſt all of them cruel and wild people, and eaters of mankind. They goe ſtark naked, Men and Women: Adorne themſelves with feathers, they bore in their lips and cheeks great holes, in which they place certaine little ſtones or bones, which is of a terrible ſight. They are ſtran<g ref="char:EOLhyphen"/>gers to all civil governement and religion, they known neither honour heavenly nor earthly Gods: beleeve notwithſtanding the immortality of the Soules, and that thoſe who have taken priſoners, killed eaten many Enemies, live with their Fore-fa<g ref="char:EOLhyphen"/>thers in delight &amp; dancing: and on the contrary that the ſlow are carried away and tormented of the Aignan, that is, the di<g ref="char:EOLhyphen"/>vel, who doth plange them. They warre alwayes one againſt another, the one Nation againſt the other: their weapons are wooden ſpears or Javelins, bowes, and arrows. Their enemies whome on both ſides they take priſoners, they make fat as ſwine, and afterward kil them with many ceremonies, and being roaſted on their woodden grid-irons, eath them up. The Margajaten are friends to the Portugals, through whoſe con<g ref="char:EOLhyphen"/>verſation they by degrees are tamed, and made ſubject to lawes and civil gouvernement beſides Braſily-wood, cotton &amp; other things more, doth Braſil afford, more as other Countreys, great quantity of ſugar, which groweth in long reedes or canes, theſe they breake, and grinde them with mils, afterward ſeeth or boyle them in ketles, and ſo they draw the pleaſant ſweetnes out of it.</p>
+            <p>The principal Ilands of the new world are Hiſpaniola, Cu<g ref="char:EOLhyphen"/>ba, Jamaico and S. Juan de Porto Rico. Hiſpaniola is alſo cal<g ref="char:EOLhyphen"/>led S. Domingo, after S. Dominicus, to whoſe honour they have built there a city, which is the head-city of all the reſt; there the Deputy of the King and the Bisſhop have their reſi<g ref="char:EOLhyphen"/>dence. It is al hilly, but above all other a pleaſant and fruitfull Countrey. Here growet great plenty of ſugar, Caſſia Fiſtula, Maſtix, and great ſtore of the beſt ginger. Here are alſo good mines of Gold and Silver, and from thence are brought abun<g ref="char:EOLhyphen"/>dance of Hides.</p>
+            <p>CUBA is a long ſmall Iland, and alſo Mountainous, hath many gold-bearing rivers. The Spanjards have built there two cities, S. Jago, where the Bisſhop dwelleth, and Havana, the Matt-touwn and haven of the Iland, very ſtrong, where the fleet zayling from the Weſtindis to Spain doth ordinarily meet, and wayte for winde and weather for to zayle over.</p>
+            <p>Some wont to cal for a fifth part of the world Terra Auſtra<g ref="char:EOLhyphen"/>lis or Magellanica, the Countreys in the South of the Streat Magellanes; but ſith the ſhipping by the Hollanders to thoſe parts, but ſome few jears hence it known, that Tierra del Fue<g ref="char:EOLhyphen"/>go, by Magellanes called, is nothing than a heap of Ilands; and no firm land there about, which may beare the name of the 5<hi rend="sup">th.</hi> part of the world, I thinke it ſufficient that I have touched it with theſe few words, except, two will call Terra Auſtralis, thoſe Countreys in the South of Nova Guinea, whether the Hollanders moſt zayled in the jear 1644. and in theſe our Maps are called Hollandia Nova, and Nova Zelandia. Noth<g ref="char:EOLhyphen"/>withſtanding ſith the Coaſts are but partly diſcovered, and that we have no knowledge of the inwards Countreys, wee ſhall as yet let them reſt under Aſia, til further diſcovery; and com<g ref="char:EOLhyphen"/>mend ſuch a diviſion to our Poſterity, if wee by our life gaine no more knowledge.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="maps">
+            <pb facs="tcp:175592:8"/>
+            <pb facs="tcp:175592:8"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Pas Caert van de NOORT ZEE.</hi> Verthoonende in zich. <hi>Alle de Cuſten en Havens.</hi> daer rontom gelegen.</p>
+                  <p>
+                     <hi>t' Amſterdam.</hi> Bÿ Caſparus Loots-man, Boeckverkoper en Graadbooghmaker, opt Water inde Loots-man.</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:9"/>
+            <pb facs="tcp:175592:9"/>
+            <p>
+               <figure>
+                  <p>Pascaart Van't <hi>VLYE,</hi> tot Hitland, Berghen in Noorwege<g ref="char:cmbAbbrStroke">̄</g> tot de mont van de Ooſt-Zee Alles van veel ſouten en nade miſwyſing yerbetert.</p>
+                  <p>
+                     <hi>'t Amſterdam,</hi> By Iacobus en Caſparus Lootsman op 't water in de Lootsman.</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:10"/>
+            <pb facs="tcp:175592:10"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Pascaarte</hi> vande OOST ZEE Van t Eylandt R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gen oſ vande hoeck van <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alſter bon tot <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en Wyborg</p>
+                  <p>
+                     <hi>'t Amſterdam</hi> By Theunis Iacobſz op t water inde Lootsman</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:11"/>
+            <pb facs="tcp:175592:11"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>PASCAART</hi> Van de Zee-cuſten van Ruslandt. Laplandt Finmarcken Spitsbergen en Nova-zembla</p>
+                  <p>
+                     <hi>'t Amsterdam</hi> By Theums Iacobſz op 'twater inde Lootsman. Op mens overſien en ver: betert</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:12"/>
+            <pb facs="tcp:175592:12"/>
+            <p>
+               <figure>
+                  <head>Paſcaerte van <hi>GROEN-LANDT,</hi> Ÿſlandt. Straet Davids en Ian Maÿen eÿlandt: hoemen de ſelvigevan Hitlandt en de Noort cuſten van Schotlandt en Yrlandt beſcÿlen mach.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:13"/>
+            <pb facs="tcp:175592:13"/>
+            <p>
+               <figure>
+                  <head>PASKAERT Van de Zeeuſche en Vlaemſche Kuſten, tonende alle drooghte, diepten, en ondiepten, tuſſchen 't eylandt Schouwen en de Hoofden, <hi>curieuſelyck beſchreven door</hi> Dirck Davidſz.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:14"/>
+            <pb facs="tcp:175592:14"/>
+            <p>
+               <figure>
+                  <head>PASKAERT Van de Zeeuſche en Vlaemſche Kuſten, tonende alle drooghte, diepten, en ondiepten, tuſſchen 't eylandt Schouwen en de Hoofden, <hi>curieuſelyck beſchreven door</hi> Dirck Davidſz.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:15"/>
+            <pb facs="tcp:175592:15"/>
+            <p>
+               <figure>
+                  <p>Pas caerte van <hi>TEXEL</hi> tot dende <hi>HOOFDEN,</hi> begrypende in ſich de Zee cuſten van Vries-land, Holland, Zeeland, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>laenderen en de Ooſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-cuſt van Engeland. Als mede hoemen <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t alle havens en ga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en al<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 't Vlie. Texel de Maes. Goereſche gat. t Veergat en alle Zeeuſche gaten en de Rivier van Londen de Hoofden ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l beſoylen oock hoemen de ſelynge gaten be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>namelyc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ytter zee ſal aen doen.</p>
+                  <p>
+                     <hi>'t Amſterdam,</hi> Bÿ Iacob Theuniſs Loots-man Boeckverkoper en Graadbooghmaker op 't Water inde Loots-man.</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:16"/>
+            <pb facs="tcp:175592:16"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Pas-Caert van ENGELANDT Schotlandt Yrlandt</hi> En een Gedeelte van Vranckryck op Nieuws Overgeſien en verbetert</p>
+                  <p>
+                     <hi>'t Amſterdam</hi> By Iacobus en Caſparus Lootsman Boeck-verkoopers op 't Water in de Lootsman</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:17"/>
+            <pb facs="tcp:175592:17"/>
+            <p>
+               <figure>
+                  <head>
+                     <hi>Pas Caart van 'T CANAAL</hi> Tuſſchen ENGELAND en VRANKRYCK. by Jacob en Caſparus Loots-man Boeck ver<g ref="char:EOLhyphen"/>koopers op 't water inde Loots-man.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:18"/>
+            <pb facs="tcp:175592:18"/>
+            <p>
+               <figure>
+                  <head>
+                     <hi>Pascaerte</hi> om achter <hi>YRLANDT</hi> om te zeylen van Hit<g ref="char:EOLhyphen"/>lant tot aen H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rſant. Nieuw lycx vy<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gegeven <hi>'t Amſterdam</hi> By Theunis Iacobſz op <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> t water inde Lootsman.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:19"/>
+            <pb facs="tcp:175592:19"/>
+            <p>
+               <figure>
+                  <head>Pas-kaerte vant in komen <hi>VANDE</hi> CANAES <hi>HOEMEN</hi> die ſal aen doen, als men uyt de Weſt comt. <hi>'t Amſterdam.</hi> Gedruckt by Jacob en Caſparus Loots-man. Boeck-verkoopers op 't Water, in de Loots-man.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:20"/>
+            <pb facs="tcp:175592:20"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>Pascaerte</hi> vande <hi>BOCHT</hi> van Vranckryck. Biſcayen. en Galiſsen. tuſschen Heyſant en C. de Fineſterre door L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Brien.</p>
+                  <p>
+                     <hi>t Amſterdam.</hi> By Iacob en Caſparus Lootsman, Boeckverkoopers opt Water inde Lootsman.</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:21"/>
+            <pb facs="tcp:175592:21"/>
+            <p>
+               <figure>
+                  <p>Parfecte Pascaerte van de <hi>Rivier van BOURDEAUX</hi> Vertoonende 'tinkomen der ſel<g ref="char:EOLhyphen"/>vige, met haer diepten, droogten en Ancker-gronden. Nievelyx be<g ref="char:EOLhyphen"/>ſchreven.</p>
+                  <p>
+                     <hi>'t Amsterdam.</hi> By CASPARUS LOOTS-MAN Boeck-verkooper op 't Water inde Loots-man.</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:22"/>
+            <pb facs="tcp:175592:22"/>
+            <p>
+               <figure>
+                  <head>
+                     <hi>Pas Caart van HISPANGIEN</hi> Vertoonende de Cuſten van Granada, Andaluzie, Algarre, Portugael, Ga<g ref="char:EOLhyphen"/>liſsien en Biſcaie<g ref="char:cmbAbbrStroke">̄</g>, met een gedeelte van Vranc<g ref="char:EOLhyphen"/>rijck: ſtrecken<g ref="char:cmbAbbrStroke">̄</g> van Heyſant tot de ſtraet Gibralter. N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. de Rocht van Vranckryk ingekort en <hi>verbetert door A. en I. de Bree: 'T AMSTERDAM.</hi> By Jacobus en Caſparus Lootsman op 't water in de Lootsman.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:23"/>
+            <pb facs="tcp:175592:23"/>
+            <p>
+               <figure>
+                  <head>
+                     <hi>Pas Caart van de MIDDLANDSCHE ZEE.</hi> Vertoonende in b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee deelen <hi>'t Amſterdam,</hi> By Iacob en Caſparus Lootsman op 't Water.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:24"/>
+            <pb facs="tcp:175592:24"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>De Cust</hi> van <hi>BARBARIA,</hi> Gualata, Arguyn, en Genehoa van Capo S. Vincent tot Capo Verde</p>
+                  <p>
+                     <hi>'t Amſterdam by</hi> Jacobus en Casparus Lootsman Boeck-verkoopers op 't water inde Lootsman</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:25"/>
+            <pb facs="tcp:175592:25"/>
+            <p>
+               <figure>
+                  <p>Paſcaerte van <hi>GVINEA,</hi> en Angola, van R. de Gambia tot Cabo de Bona Eſperanca.</p>
+                  <p>
+                     <hi>'t Amſterdam.</hi> By Theunis Iacobſz op twater inde Lootsman.</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:26"/>
+            <pb facs="tcp:175592:26"/>
+            <p>
+               <figure>
+                  <p>Pascaert vande <hi>CARYBES.</hi> Nieu Nedder landt. Brazil. de Flaemſche e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Soute Eylanden. en de landen daer ontrent gelegen</p>
+                  <p>
+                     <hi>'t Amſterdam</hi> By Theu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s Iacobſz op 't Water inde Lootsman</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:27"/>
+            <pb facs="tcp:175592:27"/>
+            <p>
+               <figure>
+                  <p>Paſcaerte van <hi>NIEV NEDERLANT.</hi> Virginies, Nieu Engelant en Nova Francia, van C. of Faire tot C Forchu</p>
+                  <p>
+                     <hi>Amſterdam</hi> By Theunis Iacobſz op 't water inde Lootsman.</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:28"/>
+            <pb facs="tcp:175592:28"/>
+            <p>
+               <figure>
+                  <head>
+                     <hi>Generaele Kaert</hi> Van <hi>WEST INDIEN</hi> Vande Linie Aequinoctiael tot Benoorde Terra Neuf.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:29"/>
+            <pb facs="tcp:175592:29"/>
+            <p>
+               <figure>
+                  <head>
+                     <hi>Pascaerte</hi> vande <hi>CARIBES</hi> S. Iuan de Porte Rico, de coſthoeck van I. Spangnola als mede de vaſte cust van Nueva Andaluſia me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> de eylanden daer om<g ref="char:EOLhyphen"/>trent gelegen, Nieu-lyckx wtgegeven <hi>'t Amſterdam,</hi> Gedruckt by Iacob Theuniſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Loots-man. Boeck verkooper. en Grandt <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Maker. op 't Water inde Loots-man.</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:30"/>
+            <pb facs="tcp:175592:30"/>
+            <p>
+               <figure>
+                  <head>
+                     <hi>Pascaerte</hi> Van't Weſtelyckſte deel van <hi>OOST INDIEN</hi> En de Eylanden daer onder begrepen, van C. de Bona Eſperança tot C. Comorin. <hi>'t Amsterdam</hi> By Jacob en Caſparus Lootsman Boeckver<g ref="char:EOLhyphen"/>koopers opt t water inde Lootsman</head>
+               </figure>
+            </p>
+            <pb facs="tcp:175592:31"/>
+            <pb facs="tcp:175592:31"/>
+            <p>
+               <figure>
+                  <head>
+                     <hi>Pascaerte</hi> Van 't Ooſtelyckſte deel van <hi>OOST-INDIEN</hi> met alle de Eylanden daer onder gelegen, van Cabo Comorin tot aen Iapan. <hi>t Amſterdam</hi> By Iacob en Caſparus Lootsman Boeckverkoopers opt Water inde Lootsman.</head>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
